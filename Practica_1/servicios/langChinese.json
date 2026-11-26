@@ -1,0 +1,1883 @@
+{
+    "data":  {
+                 "objects":  [
+                                 {
+                                     "names":  {
+                                                   "alternates":  [
+                                                                      "Zh┼ìnggu├│",
+                                                                      "Zhongguo",
+                                                                      "Zhonghua",
+                                                                      "Zh┼ìnghu├í R├®nm├¡n G├▓ngh├®gu├│",
+                                                                      "Mainland China"
+                                                                  ],
+                                                   "common":  "China",
+                                                   "native":  {
+                                                                  "zho":  {
+                                                                              "common":  "õ©¡Õø¢",
+                                                                              "official":  "õ©¡ÕìÄõ║║µ░æÕà▒ÕÆîÕø¢"
+                                                                          }
+                                                              },
+                                                   "official":  "People\u0027s Republic of China",
+                                                   "translations":  {
+                                                                        "ara":  {
+                                                                                    "common":  "Ïº┘äÏÁ┘è┘å",
+                                                                                    "official":  "Ï¼┘à┘ç┘êÏ▒┘èÏ® Ïº┘äÏÁ┘è┘å Ïº┘äÏ┤Ï╣Ï¿┘èÏ®"
+                                                                                },
+                                                                        "bre":  {
+                                                                                    "common":  "Sina",
+                                                                                    "official":  "Republik Pobl Sina"
+                                                                                },
+                                                                        "ces":  {
+                                                                                    "common":  "─î├¡na",
+                                                                                    "official":  "─î├¡nsk├í lidov├í republika"
+                                                                                },
+                                                                        "cym":  {
+                                                                                    "common":  "Tsieina",
+                                                                                    "official":  "Gweriniaeth Pobl Tsieina"
+                                                                                },
+                                                                        "deu":  {
+                                                                                    "common":  "China",
+                                                                                    "official":  "Volksrepublik China"
+                                                                                },
+                                                                        "est":  {
+                                                                                    "common":  "Hiina",
+                                                                                    "official":  "Hiina Rahvavabariik"
+                                                                                },
+                                                                        "fas":  {
+                                                                                    "common":  "┌å█î┘å",
+                                                                                    "official":  "Ï¼┘à┘ç┘êÏ▒█î Ï«┘ä┘é ┌å█î┘å"
+                                                                                },
+                                                                        "fin":  {
+                                                                                    "common":  "Kiina",
+                                                                                    "official":  "Kiinan kansantasavalta"
+                                                                                },
+                                                                        "fra":  {
+                                                                                    "common":  "Chine",
+                                                                                    "official":  "R├®publique populaire de Chine"
+                                                                                },
+                                                                        "hrv":  {
+                                                                                    "common":  "Kina",
+                                                                                    "official":  "Narodna Republika Kina"
+                                                                                },
+                                                                        "hun":  {
+                                                                                    "common":  "K├¡na",
+                                                                                    "official":  "K├¡nai N├®pk├Âzt├írsas├íg"
+                                                                                },
+                                                                        "ind":  {
+                                                                                    "common":  "Tiongkok",
+                                                                                    "official":  "Republik Rakyat Tiongkok"
+                                                                                },
+                                                                        "ita":  {
+                                                                                    "common":  "Cina",
+                                                                                    "official":  "Repubblica popolare cinese"
+                                                                                },
+                                                                        "jpn":  {
+                                                                                    "common":  "õ©¡Õø¢",
+                                                                                    "official":  "õ©¡ÞÅ»õ║║µ░æÕà▒ÕÆîÕø¢"
+                                                                                },
+                                                                        "kor":  {
+                                                                                    "common":  "ýñæÛÁ¡",
+                                                                                    "official":  "ýñæÝÖöýØ©Ù»╝Û│ÁÝÖöÛÁ¡"
+                                                                                },
+                                                                        "nld":  {
+                                                                                    "common":  "China",
+                                                                                    "official":  "Volksrepubliek China"
+                                                                                },
+                                                                        "pol":  {
+                                                                                    "common":  "Chiny",
+                                                                                    "official":  "Chi┼äska Republika Ludowa"
+                                                                                },
+                                                                        "por":  {
+                                                                                    "common":  "China",
+                                                                                    "official":  "Rep├║blica Popular da China"
+                                                                                },
+                                                                        "rus":  {
+                                                                                    "common":  "ðÜð©Ðéð░ð╣",
+                                                                                    "official":  "ðØð░ÐÇð¥ð┤ð¢ð░ÐÅ ðáðÁÐüð┐Ðâð▒ð╗ð©ð║ð░ ðÜð©Ðéð░ð╣"
+                                                                                },
+                                                                        "slk":  {
+                                                                                    "common":  "─î├¡na",
+                                                                                    "official":  "─î├¡nska ─¥udov├í republika"
+                                                                                },
+                                                                        "spa":  {
+                                                                                    "common":  "China",
+                                                                                    "official":  "Rep├║blica Popular de China"
+                                                                                },
+                                                                        "srp":  {
+                                                                                    "common":  "ðÜð©ð¢ð░",
+                                                                                    "official":  "ðØð░ÐÇð¥ð┤ð¢ð░ ðáðÁð┐Ðâð▒ð╗ð©ð║ð░ ðÜð©ð¢ð░"
+                                                                                },
+                                                                        "swe":  {
+                                                                                    "common":  "Kina",
+                                                                                    "official":  "Folkrepubliken Kina"
+                                                                                },
+                                                                        "tur":  {
+                                                                                    "common":  "├çin",
+                                                                                    "official":  "├çin Halk Cumhuriyeti"
+                                                                                },
+                                                                        "urd":  {
+                                                                                    "common":  "┌å█î┘å",
+                                                                                    "official":  "Ï╣┘êÏº┘à█î Ï¼┘à█ü┘êÏ▒█î█ü ┌å█î┘å"
+                                                                                }
+                                                                    }
+                                               },
+                                     "codes":  {
+                                                   "alpha_2":  "CN",
+                                                   "alpha_3":  "CHN",
+                                                   "ccn3":  "156",
+                                                   "cioc":  "CHN",
+                                                   "fifa":  "CHN",
+                                                   "fips":  "CH",
+                                                   "gec":  "CH"
+                                               },
+                                     "capitals":  [
+                                                      {
+                                                          "attributes":  {
+                                                                             "administrative":  false,
+                                                                             "constitutional":  false,
+                                                                             "executive":  false,
+                                                                             "judicial":  false,
+                                                                             "legislative":  false,
+                                                                             "primary":  true
+                                                                         },
+                                                          "coordinates":  {
+                                                                              "lat":  39.92,
+                                                                              "lng":  116.38
+                                                                          },
+                                                          "name":  "Beijing"
+                                                      }
+                                                  ],
+                                     "flag":  {
+                                                  "colors":  {
+                                                                 "dominant":  "#fff100",
+                                                                 "palette":  [
+                                                                                 {
+                                                                                     "hex":  "#fff100",
+                                                                                     "proportion":  0.02375513933302878
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#ee2421",
+                                                                                     "proportion":  0.9712197350388305
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f6770b",
+                                                                                     "proportion":  0.0009136592051164915
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f38d00",
+                                                                                     "proportion":  0.00022841480127912289
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f54424",
+                                                                                     "proportion":  0.001827318410232983
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f56026",
+                                                                                     "proportion":  0.0011420740063956144
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#ea332b",
+                                                                                     "proportion":  0.0009136592051164915
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#e72e00",
+                                                                                     "proportion":  0
+                                                                                 }
+                                                                             ],
+                                                                 "prominent":  "#ee2421",
+                                                                 "swatches":  {
+                                                                                  "dark_muted":  null,
+                                                                                  "dark_vibrant":  null,
+                                                                                  "light_muted":  "#f6770b",
+                                                                                  "light_vibrant":  "#fff100",
+                                                                                  "muted":  "#f38d00",
+                                                                                  "vibrant":  "#ee2421"
+                                                                              }
+                                                             },
+                                                  "description":  "The flag of China has a red field. In the canton are five yellow five-pointed stars ÔÇö a large star and four smaller stars arranged in a vertical arc on the fly side of the large star.",
+                                                  "emoji":  "­ƒç¿­ƒç│",
+                                                  "html_entity":  "\u0026#127464;\u0026#127475;",
+                                                  "unicode":  "U+1F1E8 U+1F1F3",
+                                                  "url_png":  "https://flags.restcountries.com/v5/w640/cn.png",
+                                                  "url_svg":  "https://flags.restcountries.com/v5/svg/cn.svg"
+                                              },
+                                     "region":  "Asia",
+                                     "subregion":  "Eastern Asia",
+                                     "area":  {
+                                                  "kilometers":  9706961,
+                                                  "miles":  3747877.1
+                                              },
+                                     "assets":  [
+
+                                                ],
+                                     "borders":  [
+                                                     "AFG",
+                                                     "BTN",
+                                                     "MMR",
+                                                     "HKG",
+                                                     "IND",
+                                                     "KAZ",
+                                                     "NPL",
+                                                     "PRK",
+                                                     "KGZ",
+                                                     "LAO",
+                                                     "MAC",
+                                                     "MNG",
+                                                     "PAK",
+                                                     "RUS",
+                                                     "TJK",
+                                                     "VNM"
+                                                 ],
+                                     "calling_codes":  [
+                                                           "86"
+                                                       ],
+                                     "cars":  {
+                                                  "driving_side":  "right",
+                                                  "signs":  [
+                                                                "RC"
+                                                            ]
+                                              },
+                                     "classification":  {
+                                                            "dependency":  false,
+                                                            "dependency_type":  "",
+                                                            "disputed":  false,
+                                                            "iso_status":  "official",
+                                                            "sovereign":  true,
+                                                            "un_member":  true,
+                                                            "un_observer":  false
+                                                        },
+                                     "continents":  [
+                                                        "Asia"
+                                                    ],
+                                     "coordinates":  {
+                                                         "lat":  35,
+                                                         "lng":  105
+                                                     },
+                                     "currencies":  [
+                                                        {
+                                                            "code":  "CNY",
+                                                            "name":  "Chinese yuan",
+                                                            "symbol":  "┬Ñ"
+                                                        }
+                                                    ],
+                                     "date":  {
+                                                  "academic_year_start":  {
+                                                                              "day":  1,
+                                                                              "month":  9
+                                                                          },
+                                                  "fiscal_year_start":  {
+                                                                            "corporate":  {
+                                                                                              "basis":  "convention",
+                                                                                              "day":  1,
+                                                                                              "month":  1
+                                                                                          },
+                                                                            "government":  {
+                                                                                               "day":  1,
+                                                                                               "month":  1
+                                                                                           },
+                                                                            "personal":  {
+                                                                                             "day":  1,
+                                                                                             "month":  1
+                                                                                         }
+                                                                        },
+                                                  "start_of_week":  "monday"
+                                              },
+                                     "demonyms":  {
+                                                      "eng":  {
+                                                                  "f":  "Chinese",
+                                                                  "m":  "Chinese"
+                                                              },
+                                                      "fra":  {
+                                                                  "f":  "Chinoise",
+                                                                  "m":  "Chinois"
+                                                              }
+                                                  },
+                                     "descriptions":  {
+                                                          "long":  "China is a country with Beijing as its capital and Standard Chinese as its official language, and it is one of the two most populous countries. The renminbi is the currency, and manufacturing, exports and public investment drive its economy.",
+                                                          "short":  "China is an East Asian state, third in the world by land area, bordering fourteen countries."
+                                                      },
+                                     "economy":  {
+                                                     "gini_coefficient":  {
+                                                                              "2018":  38.5,
+                                                                              "2019":  38.2,
+                                                                              "2020":  37.1,
+                                                                              "2021":  35.7,
+                                                                              "2022":  36
+                                                                          }
+                                                 },
+                                     "government_type":  "Unitary communist state",
+                                     "landlocked":  false,
+                                     "languages":  [
+                                                       {
+                                                           "bcp47":  "zh",
+                                                           "iso639_1":  "zh",
+                                                           "iso639_2b":  "chi",
+                                                           "iso639_2t":  "zho",
+                                                           "iso639_3":  "zho",
+                                                           "name":  "Chinese",
+                                                           "native_name":  "õ©¡µûç"
+                                                       }
+                                                   ],
+                                     "leaders":  [
+                                                     {
+                                                         "message":  "data.leaders is only available on paid plans. Go to https://restcountries.com/plans to make updates to your account.",
+                                                         "sample":  "https://files-03.restcountries.com/countries.00/sample.leaders.json"
+                                                     }
+                                                 ],
+                                     "links":  {
+                                                   "google_maps":  "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+                                                   "official":  "https://www.gov.cn",
+                                                   "open_street_maps":  "https://www.openstreetmap.org/relation/270056",
+                                                   "wikipedia":  "https://en.wikipedia.org/wiki/China"
+                                               },
+                                     "memberships":  {
+                                                         "african_union":  false,
+                                                         "arab_league":  false,
+                                                         "asean":  false,
+                                                         "brics":  true,
+                                                         "commonwealth":  false,
+                                                         "eu":  false,
+                                                         "eurozone":  false,
+                                                         "g20":  true,
+                                                         "g7":  false,
+                                                         "nato":  false,
+                                                         "oecd":  false,
+                                                         "opec":  false,
+                                                         "schengen":  false,
+                                                         "un":  true
+                                                     },
+                                     "number_format":  {
+                                                           "decimal_separator":  ".",
+                                                           "thousands_separator":  ","
+                                                       },
+                                     "parent":  {
+                                                    "alpha_2":  "",
+                                                    "alpha_3":  ""
+                                                },
+                                     "population":  1404890000,
+                                     "postal_code":  {
+                                                         "format":  "######",
+                                                         "regex":  "^(\\d{6})$"
+                                                     },
+                                     "timezones":  [
+                                                       "UTC+08:00"
+                                                   ],
+                                     "tlds":  [
+                                                  ".cn",
+                                                  ".õ©¡Õø¢",
+                                                  ".õ©¡Õ£ï",
+                                                  ".Õà¼ÕÅ©",
+                                                  ".þ¢æþ╗£"
+                                              ],
+                                     "units":  {
+                                                   "measurement_system":  "metric",
+                                                   "temperature_scale":  "Celsius"
+                                               },
+                                     "uuid":  "26cc76fd-51ce-4dc3-8f55-45e12c22a316",
+                                     "_match":  [
+                                                    {
+                                                        "path":  "languages[0].name",
+                                                        "value":  "Chinese"
+                                                    }
+                                                ],
+                                     "_meta":  {
+                                                   "lastUpdatedTimestamp":  1791895039
+                                               }
+                                 },
+                                 {
+                                     "names":  {
+                                                   "alternates":  [
+                                                                      "Hong Kong SAR",
+                                                                      "Xianggang"
+                                                                  ],
+                                                   "common":  "Hong Kong",
+                                                   "native":  {
+                                                                  "eng":  {
+                                                                              "common":  "Hong Kong",
+                                                                              "official":  "Hong Kong Special Administrative Region of the People\u0027s Republic of China"
+                                                                          },
+                                                                  "zho":  {
+                                                                              "common":  "ÚªÖµ©»",
+                                                                              "official":  "õ©¡ÕìÄõ║║µ░æÕà▒ÕÆîÕø¢ÚªÖµ©»þë╣Õê½Þíîµö┐Õî║"
+                                                                          }
+                                                              },
+                                                   "official":  "Hong Kong Special Administrative Region of the People\u0027s Republic of China",
+                                                   "translations":  {
+                                                                        "ara":  {
+                                                                                    "common":  "┘ç┘ê┘åÏ║ ┘â┘ê┘åÏ║",
+                                                                                    "official":  "┘à┘åÏÀ┘éÏ® ┘ç┘ê┘åÏ║ ┘â┘ê┘åÏ║ Ïº┘äÏºÏ»ÏºÏ▒┘èÏ® Ïº┘äÏ¬ÏºÏ¿Ï╣Ï® ┘äÏ¼┘à┘ç┘êÏ▒┘èÏ® Ïº┘äÏÁ┘è┘å Ïº┘äÏ┤Ï╣Ï¿┘èÏ®"
+                                                                                },
+                                                                        "bre":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Rannvro velestradurel arbennik Hong Kong eus Republik pobl Sina"
+                                                                                },
+                                                                        "ces":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Zvl├í┼ítn├¡ administrativn├¡ oblast ─î├¡nsk├® lidov├® republiky Hongkong"
+                                                                                },
+                                                                        "cym":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Hong Kong Special Administrative Region of the People\u0027s Republic of China"
+                                                                                },
+                                                                        "deu":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Sonderverwaltungszone Hongkong der Volksrepublik China"
+                                                                                },
+                                                                        "est":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Hongkongi erihalduspiirkond"
+                                                                                },
+                                                                        "fas":  {
+                                                                                    "common":  "┘ç┘Å┘å┌» ┌®┘Å┘å┌»",
+                                                                                    "official":  "┘ç┘Å┘å┌» ┌®┘Å┘å┌»"
+                                                                                },
+                                                                        "fin":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Hong Kongin erityishallintoalue"
+                                                                                },
+                                                                        "fra":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "R├®gion administrative sp├®ciale de Hong Kong de la R├®publique populaire de Chine"
+                                                                                },
+                                                                        "hrv":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Hong Kong Posebnog upravnog podru─ìjaNarodne Republike Kine"
+                                                                                },
+                                                                        "hun":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Hongkong"
+                                                                                },
+                                                                        "ind":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Daerah Administratif Khusus Republik Rakyat Tiongkok Hong Kong"
+                                                                                },
+                                                                        "ita":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese"
+                                                                                },
+                                                                        "jpn":  {
+                                                                                    "common":  "ÚªÖµ©»",
+                                                                                    "official":  "õ©¡ÞÅ»õ║║µ░æÕà▒ÕÆîÕø¢ÚªÖµ©»þë╣ÕêÑÞíîµö┐Õî║"
+                                                                                },
+                                                                        "kor":  {
+                                                                                    "common":  "ÝÖìý¢®",
+                                                                                    "official":  "ýñæÝÖöýØ©Ù»╝Û│ÁÝÖöÛÁ¡ ÝÖìý¢® Ýè╣Ù│äÝûëýáòÛÁ¼"
+                                                                                },
+                                                                        "nld":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Hong Kong Speciale Administratieve Regio van de Volksrepubliek China"
+                                                                                },
+                                                                        "pol":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Specjalny Region Administracyjny Chi┼äskiej Republiki Ludowej Hongkong"
+                                                                                },
+                                                                        "por":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Hong Kong Regi├úo Administrativa Especial da Rep├║blica Popular da China"
+                                                                                },
+                                                                        "rus":  {
+                                                                                    "common":  "ðôð¥ð¢ð║ð¥ð¢ð│",
+                                                                                    "official":  "Hong Kong ðíð┐ðÁÐåð©ð░ð╗Ðîð¢Ðïð╣ ð░ð┤ð╝ð©ð¢ð©ÐüÐéÐÇð░Ðéð©ð▓ð¢Ðïð╣ ÐÇð░ð╣ð¥ð¢ ðÜð©Ðéð░ð╣Ðüð║ð¥ð╣ ðØð░ÐÇð¥ð┤ð¢ð¥ð╣ ðáðÁÐüð┐Ðâð▒ð╗ð©ð║ð© ðÜð©Ðéð░ÐÅ"
+                                                                                },
+                                                                        "slk":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "┼ápeci├ílna administrat├¡vna oblas┼Ñ─î├¡nskej ─¥udovej republiky Hongkong"
+                                                                                },
+                                                                        "spa":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "Hong Kong Regi├│n Administrativa Especial de la Rep├║blica Popular China"
+                                                                                },
+                                                                        "srp":  {
+                                                                                    "common":  "ðÑð¥ð¢ð│ð║ð¥ð¢ð│",
+                                                                                    "official":  "ðÑð¥ð¢ð│ð║ð¥ð¢ð│ Ðüð┐ðÁÐåð©Ðÿð░ð╗ð¢ð░ ð░ð┤ð╝ð©ð¢ð©ÐüÐéÐÇð░Ðéð©ð▓ð¢ð░ ð¥ð▒ð╗ð░ÐüÐé ðØð░ÐÇð¥ð┤ð¢ðÁ ðáðÁð┐Ðâð▒ð╗ð©ð║ðÁ ðÜð©ð¢ðÁ"
+                                                                                },
+                                                                        "swe":  {
+                                                                                    "common":  "Hongkong",
+                                                                                    "official":  "Hongkong"
+                                                                                },
+                                                                        "tur":  {
+                                                                                    "common":  "Hong Kong",
+                                                                                    "official":  "├çin Halk Cumhuriyeti Hong Kong ├ûzel ─░dari B├Âlgesi"
+                                                                                },
+                                                                        "urd":  {
+                                                                                    "common":  "█üÏº┘å┌» ┌®Ïº┘å┌»",
+                                                                                    "official":  "█üÏº┘å┌» ┌®Ïº┘å┌» Ï╣┘êÏº┘à█î Ï¼┘à█ü┘êÏ▒█î█ü ┌å█î┘å ┌®Ïº Ï«ÏÁ┘êÏÁ█î Ïº┘åÏ¬Ï©Ïº┘à█î Ï╣┘äÏº┘é█ü"
+                                                                                }
+                                                                    }
+                                               },
+                                     "codes":  {
+                                                   "alpha_2":  "HK",
+                                                   "alpha_3":  "HKG",
+                                                   "ccn3":  "344",
+                                                   "cioc":  "HKG",
+                                                   "fifa":  "HKG",
+                                                   "fips":  "",
+                                                   "gec":  ""
+                                               },
+                                     "capitals":  [
+                                                      {
+                                                          "attributes":  {
+                                                                             "administrative":  false,
+                                                                             "constitutional":  false,
+                                                                             "executive":  false,
+                                                                             "judicial":  false,
+                                                                             "legislative":  false,
+                                                                             "primary":  true
+                                                                         },
+                                                          "coordinates":  {
+                                                                              "lat":  22.267,
+                                                                              "lng":  114.188
+                                                                          },
+                                                          "name":  "City of Victoria"
+                                                      }
+                                                  ],
+                                     "flag":  {
+                                                  "colors":  {
+                                                                 "dominant":  "#fcfbf7",
+                                                                 "palette":  [
+                                                                                 {
+                                                                                     "hex":  "#fcfbf7",
+                                                                                     "proportion":  0.053905893101873
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#fee4e5",
+                                                                                     "proportion":  0.0328917313841937
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#ef2824",
+                                                                                     "proportion":  0.9061215166742805
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#fbfaff",
+                                                                                     "proportion":  0.001827318410232983
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f37b84",
+                                                                                     "proportion":  0.005025125628140704
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f75a4d",
+                                                                                     "proportion":  0.00022841480127912289
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#ecffe7",
+                                                                                     "proportion":  0
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#bbc300",
+                                                                                     "proportion":  0
+                                                                                 }
+                                                                             ],
+                                                                 "prominent":  "#ef2824",
+                                                                 "swatches":  {
+                                                                                  "dark_muted":  null,
+                                                                                  "dark_vibrant":  null,
+                                                                                  "light_muted":  "#fee4e5",
+                                                                                  "light_vibrant":  "#bbc300",
+                                                                                  "muted":  "#f37b84",
+                                                                                  "vibrant":  "#ef2824"
+                                                                              }
+                                                             },
+                                                  "description":  "The flag of Hong Kong has a red field, at the center of which is a stylized white Bauhinia flower of five petals, each petal bearing a small five-pointed red star.",
+                                                  "emoji":  "­ƒç¡­ƒç░",
+                                                  "html_entity":  "\u0026#127469;\u0026#127472;",
+                                                  "unicode":  "U+1F1ED U+1F1F0",
+                                                  "url_png":  "https://flags.restcountries.com/v5/w640/hk.png",
+                                                  "url_svg":  "https://flags.restcountries.com/v5/svg/hk.svg"
+                                              },
+                                     "region":  "Asia",
+                                     "subregion":  "Eastern Asia",
+                                     "area":  {
+                                                  "kilometers":  1104,
+                                                  "miles":  426.3
+                                              },
+                                     "assets":  [
+
+                                                ],
+                                     "borders":  [
+                                                     "CHN"
+                                                 ],
+                                     "calling_codes":  [
+                                                           "852"
+                                                       ],
+                                     "cars":  {
+                                                  "driving_side":  "left",
+                                                  "signs":  [
+                                                                "HK"
+                                                            ]
+                                              },
+                                     "classification":  {
+                                                            "dependency":  true,
+                                                            "dependency_type":  "special_administrative_region",
+                                                            "disputed":  false,
+                                                            "iso_status":  "official",
+                                                            "sovereign":  false,
+                                                            "un_member":  false,
+                                                            "un_observer":  false
+                                                        },
+                                     "continents":  [
+                                                        "Asia"
+                                                    ],
+                                     "coordinates":  {
+                                                         "lat":  22.267,
+                                                         "lng":  114.188
+                                                     },
+                                     "currencies":  [
+                                                        {
+                                                            "code":  "HKD",
+                                                            "name":  "Hong Kong dollar",
+                                                            "symbol":  "$"
+                                                        }
+                                                    ],
+                                     "date":  {
+                                                  "academic_year_start":  {
+                                                                              "day":  1,
+                                                                              "month":  9
+                                                                          },
+                                                  "fiscal_year_start":  {
+                                                                            "corporate":  {
+                                                                                              "basis":  "default",
+                                                                                              "day":  1,
+                                                                                              "month":  4
+                                                                                          },
+                                                                            "government":  {
+                                                                                               "day":  1,
+                                                                                               "month":  4
+                                                                                           },
+                                                                            "personal":  {
+                                                                                             "day":  1,
+                                                                                             "month":  4
+                                                                                         }
+                                                                        },
+                                                  "start_of_week":  "monday"
+                                              },
+                                     "demonyms":  {
+                                                      "eng":  {
+                                                                  "f":  "Hong Konger",
+                                                                  "m":  "Hong Konger"
+                                                              },
+                                                      "fra":  {
+                                                                  "f":  "Hongkongaise",
+                                                                  "m":  "Hongkongais"
+                                                              }
+                                                  },
+                                     "descriptions":  {
+                                                          "long":  "Hong Kong is a territory that passed from British to Chinese sovereignty in 1997 and keeps its own legal system. Chinese and English are the official languages, the Hong Kong dollar is pegged to the United States dollar, and finance leads the economy.",
+                                                          "short":  "Hong Kong is a special administrative region of China at the mouth of the Pearl river delta."
+                                                      },
+                                     "economy":  {
+                                                     "gini_coefficient":  {
+
+                                                                          }
+                                                 },
+                                     "government_type":  "Devolved executive-led government within a unitary state",
+                                     "landlocked":  false,
+                                     "languages":  [
+                                                       {
+                                                           "bcp47":  "en",
+                                                           "iso639_1":  "en",
+                                                           "iso639_2b":  "eng",
+                                                           "iso639_2t":  "eng",
+                                                           "iso639_3":  "eng",
+                                                           "name":  "English",
+                                                           "native_name":  "English"
+                                                       },
+                                                       {
+                                                           "bcp47":  "zh",
+                                                           "iso639_1":  "zh",
+                                                           "iso639_2b":  "chi",
+                                                           "iso639_2t":  "zho",
+                                                           "iso639_3":  "zho",
+                                                           "name":  "Chinese",
+                                                           "native_name":  "õ©¡µûç"
+                                                       }
+                                                   ],
+                                     "leaders":  [
+                                                     {
+                                                         "message":  "data.leaders is only available on paid plans. Go to https://restcountries.com/plans to make updates to your account.",
+                                                         "sample":  "https://files-03.restcountries.com/countries.00/sample.leaders.json"
+                                                     }
+                                                 ],
+                                     "links":  {
+                                                   "google_maps":  "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+                                                   "official":  "",
+                                                   "open_street_maps":  "https://www.openstreetmap.org/relation/913110",
+                                                   "wikipedia":  "https://en.wikipedia.org/wiki/Hong_Kong"
+                                               },
+                                     "memberships":  {
+                                                         "african_union":  false,
+                                                         "arab_league":  false,
+                                                         "asean":  false,
+                                                         "brics":  false,
+                                                         "commonwealth":  false,
+                                                         "eu":  false,
+                                                         "eurozone":  false,
+                                                         "g20":  false,
+                                                         "g7":  false,
+                                                         "nato":  false,
+                                                         "oecd":  false,
+                                                         "opec":  false,
+                                                         "schengen":  false,
+                                                         "un":  false
+                                                     },
+                                     "number_format":  {
+                                                           "decimal_separator":  ".",
+                                                           "thousands_separator":  ","
+                                                       },
+                                     "parent":  {
+                                                    "alpha_2":  "CN",
+                                                    "alpha_3":  "CHN"
+                                                },
+                                     "population":  7498100,
+                                     "postal_code":  {
+                                                         "format":  "",
+                                                         "regex":  ""
+                                                     },
+                                     "timezones":  [
+                                                       "UTC+08:00"
+                                                   ],
+                                     "tlds":  [
+                                                  ".hk",
+                                                  ".ÚªÖµ©»"
+                                              ],
+                                     "units":  {
+                                                   "measurement_system":  "metric",
+                                                   "temperature_scale":  "Celsius"
+                                               },
+                                     "uuid":  "34b5eeb3-f2d1-41ad-ac37-50c9e31c5db1",
+                                     "_match":  [
+                                                    {
+                                                        "path":  "languages[1].name",
+                                                        "value":  "Chinese"
+                                                    }
+                                                ],
+                                     "_meta":  {
+                                                   "lastUpdatedTimestamp":  1788724018
+                                               }
+                                 },
+                                 {
+                                     "names":  {
+                                                   "alternates":  [
+                                                                      "Macao",
+                                                                      "õ©¡ÞÅ»õ║║µ░æÕà▒ÕÆîÕ£ïµ¥│ÚûÇþë╣ÕêÑÞíîµö┐ÕìÇ"
+                                                                  ],
+                                                   "common":  "Macau",
+                                                   "native":  {
+                                                                  "por":  {
+                                                                              "common":  "Macau",
+                                                                              "official":  "Regi├úo Administrativa Especial de Macau da Rep├║blica Popular da China"
+                                                                          },
+                                                                  "zho":  {
+                                                                              "common":  "µ¥│Úù¿",
+                                                                              "official":  "õ©¡ÕìÄõ║║µ░æÕà▒ÕÆîÕø¢µ¥│Úù¿þë╣Õê½Þíîµö┐Õî║"
+                                                                          }
+                                                              },
+                                                   "official":  "Macao Special Administrative Region of the People\u0027s Republic of China",
+                                                   "translations":  {
+                                                                        "ara":  {
+                                                                                    "common":  "┘àÏº┘âÏº┘ê",
+                                                                                    "official":  "┘à┘åÏÀ┘éÏ® ┘àÏº┘âÏº┘ê Ïº┘äÏÑÏ»ÏºÏ▒┘èÏ® Ïº┘äÏ¬ÏºÏ¿Ï╣Ï® ┘äÏ¼┘à┘ç┘êÏ▒┘èÏ® Ïº┘äÏÁ┘è┘å Ïº┘äÏ┤Ï╣Ï¿┘èÏ®"
+                                                                                },
+                                                                        "bre":  {
+                                                                                    "common":  "Makao",
+                                                                                    "official":  "Rannvro velestradurel arbennik Makao eus Republik pobl Sina"
+                                                                                },
+                                                                        "ces":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Zvl├í┼ítn├¡ spr├ívn├¡ oblast ─î├¡nsk├® lidov├® republiky Macao"
+                                                                                },
+                                                                        "cym":  {
+                                                                                    "common":  "Macau",
+                                                                                    "official":  "Macao Special Administrative Region of the People\u0027s Republic of China"
+                                                                                },
+                                                                        "deu":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Sonderverwaltungsregion Macau der Volksrepublik China"
+                                                                                },
+                                                                        "est":  {
+                                                                                    "common":  "Macau",
+                                                                                    "official":  "Macau erihalduspiirkond"
+                                                                                },
+                                                                        "fas":  {
+                                                                                    "common":  "┘àÏº┌®ÏºÏª┘ê",
+                                                                                    "official":  "┘àÏº┌®ÏºÏª┘ê"
+                                                                                },
+                                                                        "fin":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Macaon Kiinan kansantasavallan erityishallintoalue"
+                                                                                },
+                                                                        "fra":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "R├®gion administrative sp├®ciale de Macao de la R├®publique populaire de Chine"
+                                                                                },
+                                                                        "hrv":  {
+                                                                                    "common":  "Makao",
+                                                                                    "official":  "Makao Posebnog upravnog podru─ìjaNarodne Republike Kine"
+                                                                                },
+                                                                        "hun":  {
+                                                                                    "common":  "Maka├│",
+                                                                                    "official":  "Maka├│"
+                                                                                },
+                                                                        "ind":  {
+                                                                                    "common":  "Makau",
+                                                                                    "official":  "Daerah Administratif Khusus Makau Republik Rakyat Tiongkok"
+                                                                                },
+                                                                        "ita":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Macao Regione amministrativa speciale della Repubblica Popolare Cinese"
+                                                                                },
+                                                                        "jpn":  {
+                                                                                    "common":  "Òâ×Òé½Òé¬",
+                                                                                    "official":  "õ©¡ÞÅ»õ║║µ░æÕà▒ÕÆîÕø¢Òâ×Òé½Òé¬þë╣ÕêÑÞíîµö┐Õî║"
+                                                                                },
+                                                                        "kor":  {
+                                                                                    "common":  "Ùºêý╣┤ýÿñ",
+                                                                                    "official":  "ýñæÝÖöýØ©Ù»╝Û│ÁÝÖöÛÁ¡ Ùºêý╣┤ýÿñ Ýè╣Ù│äÝûëýáòÛÁ¼"
+                                                                                },
+                                                                        "nld":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Speciale Administratieve Regio Macau van de Volksrepubliek China"
+                                                                                },
+                                                                        "pol":  {
+                                                                                    "common":  "Makau",
+                                                                                    "official":  "Specjalny Region Administracyjny Chi┼äskiej Republiki Ludowej Makau"
+                                                                                },
+                                                                        "por":  {
+                                                                                    "common":  "Macau",
+                                                                                    "official":  "Macau Regi├úo Administrativa Especial da Rep├║blica Popular da China"
+                                                                                },
+                                                                        "rus":  {
+                                                                                    "common":  "ð£ð░ð║ð░ð¥",
+                                                                                    "official":  "ðíð┐ðÁÐåð©ð░ð╗Ðîð¢Ðïð╣ ð░ð┤ð╝ð©ð¢ð©ÐüÐéÐÇð░Ðéð©ð▓ð¢Ðïð╣ ÐÇð░ð╣ð¥ð¢ ð£ð░ð║ð░ð¥ ðÜð©Ðéð░ð╣Ðüð║ð¥ð╣ ðØð░ÐÇð¥ð┤ð¢ð¥ð╣ ðáðÁÐüð┐Ðâð▒ð╗ð©ð║ð© ðÜð©Ðéð░ð╣"
+                                                                                },
+                                                                        "slk":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Macao, ┼ápeci├álna administrat├¡vna oblas┼ª"
+                                                                                },
+                                                                        "spa":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Macao, Regi├│n Administrativa Especial de la Rep├║blica Popular China"
+                                                                                },
+                                                                        "srp":  {
+                                                                                    "common":  "ð£ð░ð║ð░ð¥",
+                                                                                    "official":  "ð£ð░ð║ð░ð¥ Ðüð┐ðÁÐåð©Ðÿð░ð╗ð¢ð░ ð░ð┤ð╝ð©ð¢ð©ÐüÐéÐÇð░Ðéð©ð▓ð¢ð░ ð¥ð▒ð╗ð░ÐüÐé ðØð░ÐÇð¥ð┤ð¢ðÁ ðáðÁð┐Ðâð▒ð╗ð©ð║ðÁ ðÜð©ð¢ðÁ"
+                                                                                },
+                                                                        "swe":  {
+                                                                                    "common":  "Macao",
+                                                                                    "official":  "Macao"
+                                                                                },
+                                                                        "tur":  {
+                                                                                    "common":  "Makao",
+                                                                                    "official":  "├çin Halk Cumhuriyeti Makao ├ûzel ─░dari B├Âlgesi"
+                                                                                },
+                                                                        "urd":  {
+                                                                                    "common":  "┘à┌®ÏºÏñ",
+                                                                                    "official":  "┘à┌®ÏºÏñ Ï╣┘êÏº┘à█î Ï¼┘à█ü┘êÏ▒█î█ü ┌å█î┘å ┌®Ïº Ï«ÏÁ┘êÏÁ█î Ïº┘åÏ¬Ï©Ïº┘à█î Ï╣┘äÏº┘é█ü"
+                                                                                }
+                                                                    }
+                                               },
+                                     "codes":  {
+                                                   "alpha_2":  "MO",
+                                                   "alpha_3":  "MAC",
+                                                   "ccn3":  "446",
+                                                   "cioc":  "",
+                                                   "fifa":  "MAC",
+                                                   "fips":  "",
+                                                   "gec":  ""
+                                               },
+                                     "capitals":  [
+
+                                                  ],
+                                     "flag":  {
+                                                  "colors":  {
+                                                                 "dominant":  "#f2f5e5",
+                                                                 "palette":  [
+                                                                                 {
+                                                                                     "hex":  "#f2f5e5",
+                                                                                     "proportion":  0.07309273640931932
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#117864",
+                                                                                     "proportion":  0.9097761534947465
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#59a193",
+                                                                                     "proportion":  0.007994518044769302
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#7fb4ac",
+                                                                                     "proportion":  0.002512562814070352
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#3f8f78",
+                                                                                     "proportion":  0.00548195523069895
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#9cb139",
+                                                                                     "proportion":  0.00045682960255824577
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#59954f",
+                                                                                     "proportion":  0.00045682960255824577
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#388352",
+                                                                                     "proportion":  0.00022841480127912289
+                                                                                 }
+                                                                             ],
+                                                                 "prominent":  "#117864",
+                                                                 "swatches":  {
+                                                                                  "dark_muted":  null,
+                                                                                  "dark_vibrant":  null,
+                                                                                  "light_muted":  "#f2f5e5",
+                                                                                  "light_vibrant":  null,
+                                                                                  "muted":  "#59a193",
+                                                                                  "vibrant":  "#9cb139"
+                                                                              }
+                                                             },
+                                                  "description":  "The flag of Macau has a green field, at the center of which is a stylized white lotus flower of three petals above a white bridge and stylized water. An arc of five five-pointed yellow stars, one large and four smaller, is situated above the lotus.",
+                                                  "emoji":  "­ƒç▓­ƒç┤",
+                                                  "html_entity":  "\u0026#127474;\u0026#127476;",
+                                                  "unicode":  "U+1F1F2 U+1F1F4",
+                                                  "url_png":  "https://flags.restcountries.com/v5/w640/mo.png",
+                                                  "url_svg":  "https://flags.restcountries.com/v5/svg/mo.svg"
+                                              },
+                                     "region":  "Asia",
+                                     "subregion":  "Eastern Asia",
+                                     "area":  {
+                                                  "kilometers":  30,
+                                                  "miles":  11.6
+                                              },
+                                     "assets":  [
+
+                                                ],
+                                     "borders":  [
+                                                     "CHN"
+                                                 ],
+                                     "calling_codes":  [
+                                                           "853"
+                                                       ],
+                                     "cars":  {
+                                                  "driving_side":  "left",
+                                                  "signs":  [
+                                                                "MO"
+                                                            ]
+                                              },
+                                     "classification":  {
+                                                            "dependency":  true,
+                                                            "dependency_type":  "special_administrative_region",
+                                                            "disputed":  false,
+                                                            "iso_status":  "official",
+                                                            "sovereign":  false,
+                                                            "un_member":  false,
+                                                            "un_observer":  false
+                                                        },
+                                     "continents":  [
+                                                        "Asia"
+                                                    ],
+                                     "coordinates":  {
+                                                         "lat":  22.16666666,
+                                                         "lng":  113.55
+                                                     },
+                                     "currencies":  [
+                                                        {
+                                                            "code":  "MOP",
+                                                            "name":  "Macanese pataca",
+                                                            "symbol":  "P"
+                                                        }
+                                                    ],
+                                     "date":  {
+                                                  "academic_year_start":  {
+                                                                              "day":  1,
+                                                                              "month":  9
+                                                                          },
+                                                  "fiscal_year_start":  {
+                                                                            "corporate":  {
+                                                                                              "basis":  "convention",
+                                                                                              "day":  1,
+                                                                                              "month":  1
+                                                                                          },
+                                                                            "government":  {
+                                                                                               "day":  1,
+                                                                                               "month":  1
+                                                                                           },
+                                                                            "personal":  {
+                                                                                             "day":  1,
+                                                                                             "month":  1
+                                                                                         }
+                                                                        },
+                                                  "start_of_week":  "monday"
+                                              },
+                                     "demonyms":  {
+                                                      "eng":  {
+                                                                  "f":  "Macanese",
+                                                                  "m":  "Macanese"
+                                                              },
+                                                      "fra":  {
+                                                                  "f":  "Macanaise",
+                                                                  "m":  "Macanais"
+                                                              }
+                                                  },
+                                     "descriptions":  {
+                                                          "long":  "Macau is a territory that passed from Portuguese to Chinese sovereignty in 1999 and keeps its own legal system. Chinese and Portuguese are the official languages, the pataca is the currency, and licensed casino gaming dominates its local economy.",
+                                                          "short":  "Macau is a special administrative region of China on the west side of the Pearl river delta."
+                                                      },
+                                     "economy":  {
+                                                     "gini_coefficient":  {
+
+                                                                          }
+                                                 },
+                                     "government_type":  "Devolved executive-led government within a unitary state",
+                                     "landlocked":  false,
+                                     "languages":  [
+                                                       {
+                                                           "bcp47":  "pt",
+                                                           "iso639_1":  "pt",
+                                                           "iso639_2b":  "por",
+                                                           "iso639_2t":  "por",
+                                                           "iso639_3":  "por",
+                                                           "name":  "Portuguese",
+                                                           "native_name":  "portugu├¬s"
+                                                       },
+                                                       {
+                                                           "bcp47":  "zh",
+                                                           "iso639_1":  "zh",
+                                                           "iso639_2b":  "chi",
+                                                           "iso639_2t":  "zho",
+                                                           "iso639_3":  "zho",
+                                                           "name":  "Chinese",
+                                                           "native_name":  "õ©¡µûç"
+                                                       }
+                                                   ],
+                                     "leaders":  [
+                                                     {
+                                                         "message":  "data.leaders is only available on paid plans. Go to https://restcountries.com/plans to make updates to your account.",
+                                                         "sample":  "https://files-03.restcountries.com/countries.00/sample.leaders.json"
+                                                     }
+                                                 ],
+                                     "links":  {
+                                                   "google_maps":  "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+                                                   "official":  "",
+                                                   "open_street_maps":  "https://www.openstreetmap.org/relation/1867188",
+                                                   "wikipedia":  "https://en.wikipedia.org/wiki/Macau"
+                                               },
+                                     "memberships":  {
+                                                         "african_union":  false,
+                                                         "arab_league":  false,
+                                                         "asean":  false,
+                                                         "brics":  false,
+                                                         "commonwealth":  false,
+                                                         "eu":  false,
+                                                         "eurozone":  false,
+                                                         "g20":  false,
+                                                         "g7":  false,
+                                                         "nato":  false,
+                                                         "oecd":  false,
+                                                         "opec":  false,
+                                                         "schengen":  false,
+                                                         "un":  false
+                                                     },
+                                     "number_format":  {
+                                                           "decimal_separator":  ".",
+                                                           "thousands_separator":  ","
+                                                       },
+                                     "parent":  {
+                                                    "alpha_2":  "CN",
+                                                    "alpha_3":  "CHN"
+                                                },
+                                     "population":  686500,
+                                     "postal_code":  {
+                                                         "format":  "",
+                                                         "regex":  ""
+                                                     },
+                                     "timezones":  [
+                                                       "UTC+08:00"
+                                                   ],
+                                     "tlds":  [
+                                                  ".mo"
+                                              ],
+                                     "units":  {
+                                                   "measurement_system":  "metric",
+                                                   "temperature_scale":  "Celsius"
+                                               },
+                                     "uuid":  "171e1068-90fc-4348-84de-b7aabdeec32e",
+                                     "_match":  [
+                                                    {
+                                                        "path":  "languages[1].name",
+                                                        "value":  "Chinese"
+                                                    }
+                                                ],
+                                     "_meta":  {
+                                                   "lastUpdatedTimestamp":  1794556089
+                                               }
+                                 },
+                                 {
+                                     "names":  {
+                                                   "alternates":  [
+
+                                                                  ],
+                                                   "common":  "Singapore",
+                                                   "native":  {
+                                                                  "eng":  {
+                                                                              "common":  "Singapore",
+                                                                              "official":  "Republic of Singapore"
+                                                                          },
+                                                                  "msa":  {
+                                                                              "common":  "Singapura",
+                                                                              "official":  "Republik Singapura"
+                                                                          },
+                                                                  "tam":  {
+                                                                              "common":  "Ó«ÜÓ«┐Ó«ÖÓ»ìÓ«òÓ«¬Ó»ìÓ«¬Ó»éÓ«░Ó»ì",
+                                                                              "official":  "Ó«ÜÓ«┐Ó«ÖÓ»ìÓ«òÓ«¬Ó»ìÓ«¬Ó»éÓ«░Ó»ì Ó«òÓ»üÓ«ƒÓ«┐Ó«»Ó«░Ó«ÜÓ»ü"
+                                                                          },
+                                                                  "zho":  {
+                                                                              "common":  "µû░ÕèáÕØí",
+                                                                              "official":  "µû░ÕèáÕØíÕà▒ÕÆîÕø¢"
+                                                                          }
+                                                              },
+                                                   "official":  "Republic of Singapore",
+                                                   "translations":  {
+                                                                        "ara":  {
+                                                                                    "common":  "Ï│┘åÏ║Ïº┘ü┘êÏ▒Ï®",
+                                                                                    "official":  "Ï¼┘à┘ç┘êÏ▒┘èÏ® Ï│┘åÏ║Ïº┘ü┘êÏ▒Ï®"
+                                                                                },
+                                                                        "bre":  {
+                                                                                    "common":  "Singapour",
+                                                                                    "official":  "Republik Singapour"
+                                                                                },
+                                                                        "ces":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Singapursk├í republika"
+                                                                                },
+                                                                        "cym":  {
+                                                                                    "common":  "Singapore",
+                                                                                    "official":  "Republic of Singapore"
+                                                                                },
+                                                                        "deu":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Republik Singapur"
+                                                                                },
+                                                                        "est":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Singapuri Vabariik"
+                                                                                },
+                                                                        "fas":  {
+                                                                                    "common":  "Ï│┘å┌»Ïº┘¥┘êÏ▒",
+                                                                                    "official":  "Ï¼┘à┘ç┘êÏ▒█î Ï│┘å┌»Ïº┘¥┘êÏ▒"
+                                                                                },
+                                                                        "fin":  {
+                                                                                    "common":  "Singapore",
+                                                                                    "official":  "Singaporen tasavalta"
+                                                                                },
+                                                                        "fra":  {
+                                                                                    "common":  "Singapour",
+                                                                                    "official":  "R├®publique de Singapour"
+                                                                                },
+                                                                        "hrv":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Republika Singapur"
+                                                                                },
+                                                                        "hun":  {
+                                                                                    "common":  "Szingap├║r",
+                                                                                    "official":  "Szingap├║ri K├Âzt├írsas├íg"
+                                                                                },
+                                                                        "ind":  {
+                                                                                    "common":  "Singapura",
+                                                                                    "official":  "Republik Singapura"
+                                                                                },
+                                                                        "ita":  {
+                                                                                    "common":  "Singapore",
+                                                                                    "official":  "Repubblica di Singapore"
+                                                                                },
+                                                                        "jpn":  {
+                                                                                    "common":  "ÒéÀÒâ│Òé¼ÒâØÒâ╝Òâ½",
+                                                                                    "official":  "ÒéÀÒâ│Òé¼ÒâØÒâ╝Òâ½Õà▒ÕÆîÕø¢"
+                                                                                },
+                                                                        "kor":  {
+                                                                                    "common":  "ýï▒Û░ÇÝÅ¼ÙÑ┤",
+                                                                                    "official":  "ýï▒Û░ÇÝÅ¼ÙÑ┤ Û│ÁÝÖöÛÁ¡"
+                                                                                },
+                                                                        "nld":  {
+                                                                                    "common":  "Singapore",
+                                                                                    "official":  "Republiek Singapore"
+                                                                                },
+                                                                        "pol":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Republika Singapuru"
+                                                                                },
+                                                                        "por":  {
+                                                                                    "common":  "Singapura",
+                                                                                    "official":  "Rep├║blica de Singapura"
+                                                                                },
+                                                                        "rus":  {
+                                                                                    "common":  "ðíð©ð¢ð│ð░ð┐ÐâÐÇ",
+                                                                                    "official":  "ðáðÁÐüð┐Ðâð▒ð╗ð©ð║ð░ ðíð©ð¢ð│ð░ð┐ÐâÐÇ"
+                                                                                },
+                                                                        "slk":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Singapursk├í republika"
+                                                                                },
+                                                                        "spa":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Rep├║blica de Singapur"
+                                                                                },
+                                                                        "srp":  {
+                                                                                    "common":  "ðíð©ð¢ð│ð░ð┐ÐâÐÇ",
+                                                                                    "official":  "ðáðÁð┐Ðâð▒ð╗ð©ð║ð░ ðíð©ð¢ð│ð░ð┐ÐâÐÇ"
+                                                                                },
+                                                                        "swe":  {
+                                                                                    "common":  "Singapore",
+                                                                                    "official":  "Republiken Singapore"
+                                                                                },
+                                                                        "tur":  {
+                                                                                    "common":  "Singapur",
+                                                                                    "official":  "Singapur Cumhuriyeti"
+                                                                                },
+                                                                        "urd":  {
+                                                                                    "common":  "Ï│┘å┌»Ïº┘¥┘êÏ▒",
+                                                                                    "official":  "Ï¼┘à█ü┘êÏ▒█î█ü Ï│┘å┌»Ïº┘¥┘êÏ▒"
+                                                                                }
+                                                                    }
+                                               },
+                                     "codes":  {
+                                                   "alpha_2":  "SG",
+                                                   "alpha_3":  "SGP",
+                                                   "ccn3":  "702",
+                                                   "cioc":  "SGP",
+                                                   "fifa":  "SIN",
+                                                   "fips":  "SN",
+                                                   "gec":  "SN"
+                                               },
+                                     "capitals":  [
+                                                      {
+                                                          "attributes":  {
+                                                                             "administrative":  false,
+                                                                             "constitutional":  false,
+                                                                             "executive":  false,
+                                                                             "judicial":  false,
+                                                                             "legislative":  false,
+                                                                             "primary":  true
+                                                                         },
+                                                          "coordinates":  {
+                                                                              "lat":  1.28,
+                                                                              "lng":  103.85
+                                                                          },
+                                                          "name":  "Singapore"
+                                                      }
+                                                  ],
+                                     "flag":  {
+                                                  "colors":  {
+                                                                 "dominant":  "#ef272b",
+                                                                 "palette":  [
+                                                                                 {
+                                                                                     "hex":  "#ef272b",
+                                                                                     "proportion":  0.46733668341708545
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#fcfbf7",
+                                                                                     "proportion":  0.5079945180447692
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f69398",
+                                                                                     "proportion":  0.006395614435815441
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#ffedee",
+                                                                                     "proportion":  0.016217450890817726
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#fefafc",
+                                                                                     "proportion":  0.0006852444038373687
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f78189",
+                                                                                     "proportion":  0.0009136592051164915
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f7fdfd",
+                                                                                     "proportion":  0.00045682960255824577
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#e5deaa",
+                                                                                     "proportion":  0
+                                                                                 }
+                                                                             ],
+                                                                 "prominent":  "#fcfbf7",
+                                                                 "swatches":  {
+                                                                                  "dark_muted":  null,
+                                                                                  "dark_vibrant":  null,
+                                                                                  "light_muted":  "#fcfbf7",
+                                                                                  "light_vibrant":  "#f78189",
+                                                                                  "muted":  "#f69398",
+                                                                                  "vibrant":  "#ef272b"
+                                                                              }
+                                                             },
+                                                  "description":  "The flag of Singapore is composed of two equal horizontal bands of red and white. On the hoist side of the red band is a fly-side facing white crescent which partially encloses five small five-pointed white stars arranged in the shape of a pentagon.",
+                                                  "emoji":  "­ƒç©­ƒç¼",
+                                                  "html_entity":  "\u0026#127480;\u0026#127468;",
+                                                  "unicode":  "U+1F1F8 U+1F1EC",
+                                                  "url_png":  "https://flags.restcountries.com/v5/w640/sg.png",
+                                                  "url_svg":  "https://flags.restcountries.com/v5/svg/sg.svg"
+                                              },
+                                     "region":  "Asia",
+                                     "subregion":  "South-Eastern Asia",
+                                     "area":  {
+                                                  "kilometers":  710,
+                                                  "miles":  274.1
+                                              },
+                                     "assets":  [
+
+                                                ],
+                                     "borders":  [
+
+                                                 ],
+                                     "calling_codes":  [
+                                                           "65"
+                                                       ],
+                                     "cars":  {
+                                                  "driving_side":  "left",
+                                                  "signs":  [
+                                                                "SGP"
+                                                            ]
+                                              },
+                                     "classification":  {
+                                                            "dependency":  false,
+                                                            "dependency_type":  "",
+                                                            "disputed":  false,
+                                                            "iso_status":  "official",
+                                                            "sovereign":  true,
+                                                            "un_member":  true,
+                                                            "un_observer":  false
+                                                        },
+                                     "continents":  [
+                                                        "Asia"
+                                                    ],
+                                     "coordinates":  {
+                                                         "lat":  1.36666666,
+                                                         "lng":  103.8
+                                                     },
+                                     "currencies":  [
+                                                        {
+                                                            "code":  "SGD",
+                                                            "name":  "Singapore dollar",
+                                                            "symbol":  "$"
+                                                        }
+                                                    ],
+                                     "date":  {
+                                                  "academic_year_start":  {
+                                                                              "day":  1,
+                                                                              "month":  1
+                                                                          },
+                                                  "fiscal_year_start":  {
+                                                                            "corporate":  {
+                                                                                              "basis":  "default",
+                                                                                              "day":  1,
+                                                                                              "month":  4
+                                                                                          },
+                                                                            "government":  {
+                                                                                               "day":  1,
+                                                                                               "month":  4
+                                                                                           },
+                                                                            "personal":  {
+                                                                                             "day":  1,
+                                                                                             "month":  1
+                                                                                         }
+                                                                        },
+                                                  "start_of_week":  "monday"
+                                              },
+                                     "demonyms":  {
+                                                      "eng":  {
+                                                                  "f":  "Singaporean",
+                                                                  "m":  "Singaporean"
+                                                              },
+                                                      "fra":  {
+                                                                  "f":  "Singapourienne",
+                                                                  "m":  "Singapourien"
+                                                              }
+                                                  },
+                                     "descriptions":  {
+                                                          "long":  "Singapore is a republic that separated from Malaysia in 1965, with English, Malay, Mandarin and Tamil as official languages. The Singapore dollar is the currency, and one of the world\u0027s largest container ports, oil refining and finance lead the economy.",
+                                                          "short":  "Singapore is an island city-state at the southern tip of the Malay Peninsula in Southeast Asia."
+                                                      },
+                                     "economy":  {
+                                                     "gini_coefficient":  {
+
+                                                                          }
+                                                 },
+                                     "government_type":  "Unitary parliamentary republic",
+                                     "landlocked":  false,
+                                     "languages":  [
+                                                       {
+                                                           "bcp47":  "en",
+                                                           "iso639_1":  "en",
+                                                           "iso639_2b":  "eng",
+                                                           "iso639_2t":  "eng",
+                                                           "iso639_3":  "eng",
+                                                           "name":  "English",
+                                                           "native_name":  "English"
+                                                       },
+                                                       {
+                                                           "bcp47":  "zh",
+                                                           "iso639_1":  "zh",
+                                                           "iso639_2b":  "chi",
+                                                           "iso639_2t":  "zho",
+                                                           "iso639_3":  "zho",
+                                                           "name":  "Chinese",
+                                                           "native_name":  "õ©¡µûç"
+                                                       },
+                                                       {
+                                                           "bcp47":  "ms",
+                                                           "iso639_1":  "ms",
+                                                           "iso639_2b":  "may",
+                                                           "iso639_2t":  "msa",
+                                                           "iso639_3":  "msa",
+                                                           "name":  "Malay",
+                                                           "native_name":  "Bahasa Melayu"
+                                                       },
+                                                       {
+                                                           "bcp47":  "ta",
+                                                           "iso639_1":  "ta",
+                                                           "iso639_2b":  "tam",
+                                                           "iso639_2t":  "tam",
+                                                           "iso639_3":  "tam",
+                                                           "name":  "Tamil",
+                                                           "native_name":  "Ó«ñÓ««Ó«┐Ó«┤Ó»ì"
+                                                       }
+                                                   ],
+                                     "leaders":  [
+                                                     {
+                                                         "message":  "data.leaders is only available on paid plans. Go to https://restcountries.com/plans to make updates to your account.",
+                                                         "sample":  "https://files-03.restcountries.com/countries.00/sample.leaders.json"
+                                                     }
+                                                 ],
+                                     "links":  {
+                                                   "google_maps":  "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+                                                   "official":  "https://www.gov.sg",
+                                                   "open_street_maps":  "https://www.openstreetmap.org/relation/536780",
+                                                   "wikipedia":  "https://en.wikipedia.org/wiki/Singapore"
+                                               },
+                                     "memberships":  {
+                                                         "african_union":  false,
+                                                         "arab_league":  false,
+                                                         "asean":  true,
+                                                         "brics":  false,
+                                                         "commonwealth":  true,
+                                                         "eu":  false,
+                                                         "eurozone":  false,
+                                                         "g20":  false,
+                                                         "g7":  false,
+                                                         "nato":  false,
+                                                         "oecd":  false,
+                                                         "opec":  false,
+                                                         "schengen":  false,
+                                                         "un":  true
+                                                     },
+                                     "number_format":  {
+                                                           "decimal_separator":  ".",
+                                                           "thousands_separator":  ","
+                                                       },
+                                     "parent":  {
+                                                    "alpha_2":  "",
+                                                    "alpha_3":  ""
+                                                },
+                                     "population":  6208500,
+                                     "postal_code":  {
+                                                         "format":  "######",
+                                                         "regex":  "^(\\d{6})$"
+                                                     },
+                                     "timezones":  [
+                                                       "UTC+08:00"
+                                                   ],
+                                     "tlds":  [
+                                                  ".sg",
+                                                  ".µû░ÕèáÕØí",
+                                                  ".Ó«ÜÓ«┐Ó«ÖÓ»ìÓ«òÓ«¬Ó»ìÓ«¬Ó»éÓ«░Ó»ì"
+                                              ],
+                                     "units":  {
+                                                   "measurement_system":  "metric",
+                                                   "temperature_scale":  "Celsius"
+                                               },
+                                     "uuid":  "67c93bfb-ea02-4bab-a7d1-c8da57599f9d",
+                                     "_match":  [
+                                                    {
+                                                        "path":  "languages[1].name",
+                                                        "value":  "Chinese"
+                                                    }
+                                                ],
+                                     "_meta":  {
+                                                   "lastUpdatedTimestamp":  1790538279
+                                               }
+                                 },
+                                 {
+                                     "names":  {
+                                                   "alternates":  [
+                                                                      "T├íiw─ün",
+                                                                      "Republic of China",
+                                                                      "Zh┼ìnghu├í M├¡ngu├│",
+                                                                      "Chinese Taipei"
+                                                                  ],
+                                                   "common":  "Taiwan",
+                                                   "native":  {
+                                                                  "zho":  {
+                                                                              "common":  "ÕÅ░þüú",
+                                                                              "official":  "õ©¡ÞÅ»µ░æÕ£ï"
+                                                                          }
+                                                              },
+                                                   "official":  "Republic of China (Taiwan)",
+                                                   "translations":  {
+                                                                        "ara":  {
+                                                                                    "common":  "Ï¬Ïº┘è┘êÏº┘å",
+                                                                                    "official":  "Ï¼┘à┘ç┘êÏ▒┘èÏ® Ïº┘äÏÁ┘è┘å (Ï¬Ïº┘è┘êÏº┘å)"
+                                                                                },
+                                                                        "bre":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Republik Sina (Taiwan)"
+                                                                                },
+                                                                        "ces":  {
+                                                                                    "common":  "Tchaj-wan",
+                                                                                    "official":  "─î├¡nsk├í republika"
+                                                                                },
+                                                                        "cym":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Republic of China (Taiwan)"
+                                                                                },
+                                                                        "deu":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Republik China (Taiwan)"
+                                                                                },
+                                                                        "est":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Taiwani"
+                                                                                },
+                                                                        "fas":  {
+                                                                                    "common":  "Ï¬Ïº█î┘êÏº┘å",
+                                                                                    "official":  "Ï¼┘à┘ç┘êÏ▒█î ┌å█î┘å"
+                                                                                },
+                                                                        "fin":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Kiinan tasavalta"
+                                                                                },
+                                                                        "fra":  {
+                                                                                    "common":  "Ta├»wan",
+                                                                                    "official":  "R├®publique de Chine (Ta├»wan)"
+                                                                                },
+                                                                        "hrv":  {
+                                                                                    "common":  "Tajvan",
+                                                                                    "official":  "Republika Kina"
+                                                                                },
+                                                                        "hun":  {
+                                                                                    "common":  "Tajvan",
+                                                                                    "official":  "K├¡nai K├Âzt├írsas├íg"
+                                                                                },
+                                                                        "ind":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Republik Tiongkok"
+                                                                                },
+                                                                        "ita":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Repubblica cinese (Taiwan)"
+                                                                                },
+                                                                        "jpn":  {
+                                                                                    "common":  "ÕÅ░µ╣¥",
+                                                                                    "official":  "õ©¡ÞÅ»µ░æÕø¢"
+                                                                                },
+                                                                        "kor":  {
+                                                                                    "common":  "ÙîÇÙºî",
+                                                                                    "official":  "ýñæÝÖöÙ»╝ÛÁ¡"
+                                                                                },
+                                                                        "nld":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Republiek China (Taiwan)"
+                                                                                },
+                                                                        "pol":  {
+                                                                                    "common":  "Tajwan",
+                                                                                    "official":  "Republika Chi┼äska (Tajwan)"
+                                                                                },
+                                                                        "por":  {
+                                                                                    "common":  "Ilha Formosa",
+                                                                                    "official":  "Rep├║blica da China"
+                                                                                },
+                                                                        "rus":  {
+                                                                                    "common":  "ðóð░ð╣ð▓ð░ð¢Ðî",
+                                                                                    "official":  "ðÜð©Ðéð░ð╣Ðüð║ð░ÐÅ ðáðÁÐüð┐Ðâð▒ð╗ð©ð║ð░"
+                                                                                },
+                                                                        "slk":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "─î├¡nska republika"
+                                                                                },
+                                                                        "spa":  {
+                                                                                    "common":  "Taiw├ín",
+                                                                                    "official":  "Rep├║blica de China en Taiw├ín"
+                                                                                },
+                                                                        "srp":  {
+                                                                                    "common":  "ðóð░Ðÿð▓ð░ð¢",
+                                                                                    "official":  "ðáðÁð┐Ðâð▒ð╗ð©ð║ð░ ðÜð©ð¢ð░"
+                                                                                },
+                                                                        "swe":  {
+                                                                                    "common":  "Taiwan",
+                                                                                    "official":  "Republiken Kina"
+                                                                                },
+                                                                        "tur":  {
+                                                                                    "common":  "Tayvan",
+                                                                                    "official":  "├çin Cumhuriyeti (Tayvan)"
+                                                                                },
+                                                                        "urd":  {
+                                                                                    "common":  "Ï¬ÏºÏª█î┘êÏº┘å",
+                                                                                    "official":  "Ï¼┘à█ü┘êÏ▒█î█ü ┌å█î┘å (Ï¬ÏºÏª█î┘êÏº┘å)"
+                                                                                }
+                                                                    }
+                                               },
+                                     "codes":  {
+                                                   "alpha_2":  "TW",
+                                                   "alpha_3":  "TWN",
+                                                   "ccn3":  "158",
+                                                   "cioc":  "TPE",
+                                                   "fifa":  "TPE",
+                                                   "fips":  "TW",
+                                                   "gec":  "TW"
+                                               },
+                                     "capitals":  [
+                                                      {
+                                                          "attributes":  {
+                                                                             "administrative":  false,
+                                                                             "constitutional":  false,
+                                                                             "executive":  false,
+                                                                             "judicial":  false,
+                                                                             "legislative":  false,
+                                                                             "primary":  true
+                                                                         },
+                                                          "coordinates":  {
+                                                                              "lat":  25.03,
+                                                                              "lng":  121.52
+                                                                          },
+                                                          "name":  "Taipei"
+                                                      }
+                                                  ],
+                                     "flag":  {
+                                                  "colors":  {
+                                                                 "dominant":  "#0c0092",
+                                                                 "palette":  [
+                                                                                 {
+                                                                                     "hex":  "#0c0092",
+                                                                                     "proportion":  0.21790772042028322
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#ff1419",
+                                                                                     "proportion":  0.737779808131567
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#fcfbf7",
+                                                                                     "proportion":  0.02147099132023755
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#e1e0f3",
+                                                                                     "proportion":  0.01187756966651439
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#e80002",
+                                                                                     "proportion":  0.0038830516217450892
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#8a82ca",
+                                                                                     "proportion":  0.00022841480127912289
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#f90003",
+                                                                                     "proportion":  0.006852444038373686
+                                                                                 },
+                                                                                 {
+                                                                                     "hex":  "#c0c900",
+                                                                                     "proportion":  0
+                                                                                 }
+                                                                             ],
+                                                                 "prominent":  "#ff1419",
+                                                                 "swatches":  {
+                                                                                  "dark_muted":  null,
+                                                                                  "dark_vibrant":  "#0c0092",
+                                                                                  "light_muted":  "#e1e0f3",
+                                                                                  "light_vibrant":  "#c0c900",
+                                                                                  "muted":  "#8a82ca",
+                                                                                  "vibrant":  "#ff1419"
+                                                                              }
+                                                             },
+                                                  "description":  "The flag of Taiwan has a red field. A blue rectangle, bearing a white sun with twelve triangular rays, is superimposed in the canton.",
+                                                  "emoji":  "­ƒç╣­ƒç╝",
+                                                  "html_entity":  "\u0026#127481;\u0026#127484;",
+                                                  "unicode":  "U+1F1F9 U+1F1FC",
+                                                  "url_png":  "https://flags.restcountries.com/v5/w640/tw.png",
+                                                  "url_svg":  "https://flags.restcountries.com/v5/svg/tw.svg"
+                                              },
+                                     "region":  "Asia",
+                                     "subregion":  "Eastern Asia",
+                                     "area":  {
+                                                  "kilometers":  36193,
+                                                  "miles":  13974.2
+                                              },
+                                     "assets":  [
+
+                                                ],
+                                     "borders":  [
+
+                                                 ],
+                                     "calling_codes":  [
+                                                           "886"
+                                                       ],
+                                     "cars":  {
+                                                  "driving_side":  "right",
+                                                  "signs":  [
+                                                                "RC"
+                                                            ]
+                                              },
+                                     "classification":  {
+                                                            "dependency":  false,
+                                                            "dependency_type":  "",
+                                                            "disputed":  true,
+                                                            "iso_status":  "official",
+                                                            "sovereign":  true,
+                                                            "un_member":  false,
+                                                            "un_observer":  false
+                                                        },
+                                     "continents":  [
+                                                        "Asia"
+                                                    ],
+                                     "coordinates":  {
+                                                         "lat":  23.5,
+                                                         "lng":  121
+                                                     },
+                                     "currencies":  [
+                                                        {
+                                                            "code":  "TWD",
+                                                            "name":  "New Taiwan dollar",
+                                                            "symbol":  "$"
+                                                        }
+                                                    ],
+                                     "date":  {
+                                                  "academic_year_start":  {
+                                                                              "day":  1,
+                                                                              "month":  9
+                                                                          },
+                                                  "fiscal_year_start":  {
+                                                                            "corporate":  {
+                                                                                              "basis":  "convention",
+                                                                                              "day":  1,
+                                                                                              "month":  1
+                                                                                          },
+                                                                            "government":  {
+                                                                                               "day":  1,
+                                                                                               "month":  1
+                                                                                           },
+                                                                            "personal":  {
+                                                                                             "day":  1,
+                                                                                             "month":  1
+                                                                                         }
+                                                                        },
+                                                  "start_of_week":  "monday"
+                                              },
+                                     "demonyms":  {
+                                                      "eng":  {
+                                                                  "f":  "Taiwanese",
+                                                                  "m":  "Taiwanese"
+                                                              },
+                                                      "fra":  {
+                                                                  "f":  "Ta├»wanaise",
+                                                                  "m":  "Ta├»wanais"
+                                                              }
+                                                  },
+                                     "descriptions":  {
+                                                          "long":  "Taiwan is governed separately from the People\u0027s Republic of China, which claims it, and most states hold no formal relations with it. Taipei is its capital, Mandarin is the official language, and semiconductors dominate its export earnings.",
+                                                          "short":  "Taiwan is a self-governing island state off the southeastern coast of the Chinese mainland."
+                                                      },
+                                     "economy":  {
+                                                     "gini_coefficient":  {
+
+                                                                          }
+                                                 },
+                                     "government_type":  "Unitary semi-presidential republic",
+                                     "landlocked":  false,
+                                     "languages":  [
+                                                       {
+                                                           "bcp47":  "zh",
+                                                           "iso639_1":  "zh",
+                                                           "iso639_2b":  "chi",
+                                                           "iso639_2t":  "zho",
+                                                           "iso639_3":  "zho",
+                                                           "name":  "Chinese",
+                                                           "native_name":  "õ©¡µûç"
+                                                       }
+                                                   ],
+                                     "leaders":  [
+                                                     {
+                                                         "message":  "data.leaders is only available on paid plans. Go to https://restcountries.com/plans to make updates to your account.",
+                                                         "sample":  "https://files-03.restcountries.com/countries.00/sample.leaders.json"
+                                                     }
+                                                 ],
+                                     "links":  {
+                                                   "google_maps":  "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+                                                   "official":  "https://www.ey.gov.tw",
+                                                   "open_street_maps":  "https://www.openstreetmap.org/relation/449220",
+                                                   "wikipedia":  "https://en.wikipedia.org/wiki/Taiwan"
+                                               },
+                                     "memberships":  {
+                                                         "african_union":  false,
+                                                         "arab_league":  false,
+                                                         "asean":  false,
+                                                         "brics":  false,
+                                                         "commonwealth":  false,
+                                                         "eu":  false,
+                                                         "eurozone":  false,
+                                                         "g20":  false,
+                                                         "g7":  false,
+                                                         "nato":  false,
+                                                         "oecd":  false,
+                                                         "opec":  false,
+                                                         "schengen":  false,
+                                                         "un":  false
+                                                     },
+                                     "number_format":  {
+                                                           "decimal_separator":  ".",
+                                                           "thousands_separator":  ","
+                                                       },
+                                     "parent":  {
+                                                    "alpha_2":  "",
+                                                    "alpha_3":  ""
+                                                },
+                                     "population":  23204000,
+                                     "postal_code":  {
+                                                         "format":  "#####",
+                                                         "regex":  "^(\\d{5})$"
+                                                     },
+                                     "timezones":  [
+                                                       "UTC+08:00"
+                                                   ],
+                                     "tlds":  [
+                                                  ".tw",
+                                                  ".ÕÅ░þüú",
+                                                  ".ÕÅ░µ╣¥"
+                                              ],
+                                     "units":  {
+                                                   "measurement_system":  "metric",
+                                                   "temperature_scale":  "Celsius"
+                                               },
+                                     "uuid":  "b0e335f8-8db8-4d90-9b9a-ee7f5f156b22",
+                                     "_match":  [
+                                                    {
+                                                        "path":  "languages[0].name",
+                                                        "value":  "Chinese"
+                                                    }
+                                                ],
+                                     "_meta":  {
+                                                   "lastUpdatedTimestamp":  1794518829
+                                               }
+                                 }
+                             ],
+                 "meta":  {
+                              "total":  5,
+                              "count":  5,
+                              "limit":  100,
+                              "offset":  0,
+                              "more":  false,
+                              "request_id":  "0362e046-f061-41ed-8d7f-86402e23d762",
+                              "duration":  3
+                          }
+             }
+}
